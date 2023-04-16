@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zaj39
-- 👀 I’m interested in video game development and design.
-- 🌱 I’m currently learning Computer Science and Game Design Certificate (planned) at the University of Wisconsin - Madison
-- 💞️ I’m looking to collaborate on independent game projects.
+- 👀 I’m interested in social computing.
+- 🌱 I’m currently majored in Computer Science at the University of Wisconsin - Madison
 - 📫 azhu39@wisc.edu
